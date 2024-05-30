@@ -114,7 +114,7 @@
 
 
 
-const age = +prompt("How old are you?");
+// const age = +prompt("How old are you?");
 
 // if (age > 18) {
 //     console.log("you are older than 18");
