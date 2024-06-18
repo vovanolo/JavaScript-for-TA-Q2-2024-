@@ -11,8 +11,8 @@
 //     console.log("Click from Js");
 // }
 
-let title = document.querySelector("#title");
-let subtitle = document.querySelector("#subtitle");
+// let title = document.querySelector("#title");
+// let subtitle = document.querySelector("#subtitle");
 
 // title.onclick = function(){
 //     console.log("Click from Js");
