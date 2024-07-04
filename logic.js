@@ -1,7 +1,6 @@
-const name = "hello";
 
-function sayYes(){
-    return "Yes";    
+function add(a, b){
+    return a + b;
 }
 
-module.exports = {name, sayYes};
+module.exports = { add };
